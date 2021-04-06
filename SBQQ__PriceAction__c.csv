@@ -15,6 +15,7 @@ IF( SBQQ__Quote__r.Calculate_Tax__c = True && SBQQ__Quote__r.SBQQ__BillingCountr
 ""A000""))","#N/A",924bca47-9075-42ca-b4e5-991cf01893ee,"#N/A","#N/A",Quote Line,"#N/A","#N/A"
 9f5b8d89-abe2-4514-adfb-54c931c3c7bc,USD,Discretionary_Discount_Decimal__c,"if( SBQQ__RegularPrice__c =0, 0, ( SBQQ__NetPrice__c -SBQQ__RegularPrice__c)/(-1.0 * SBQQ__RegularPrice__c))",2.0,f3fbbbf6-6847-4aaf-9e8f-07a19cf64676,"#N/A","#N/A",Quote Line,"#N/A","#N/A"
 d00f1146-cef9-4fe6-944c-083d2a24b246,USD,Discretionary_Discount_Percent__c,"100.0 * if( SBQQ__RegularPrice__c =0, 0, ( SBQQ__NetPrice__c -SBQQ__RegularPrice__c)/(-1.0 * SBQQ__RegularPrice__c))","#N/A",1dadc07e-6f02-4f0c-a097-7a0a218fd773,"#N/A","#N/A",Quote Line,"#N/A","#N/A"
+d220c577-bdbc-4b7d-9766-a951cf6e48d1,USD,Unit Price,"#N/A","#N/A",650e06ca-0817-4673-b19c-892d6a294c21,"#N/A","#N/A",Product Option,"#N/A","#N/A"
 ee029496-d910-4db8-b508-2181ceab9209,USD,SBQQ__ListPrice__c,"#N/A","#N/A",794f6088-46b5-4349-b447-9135e6a926c6,List_Price__c,"#N/A",Quote Line,"#N/A","#N/A"
 f3755930-21bf-4644-9c59-44a5985ea958,USD,Threshold_3_Level__c,"#N/A","#N/A",bccdb305-1be5-485b-bab2-8bf068e2e71f,Lower_Bound_Percent__c,"#N/A",Quote Line,"#N/A","#N/A"
 f5ac1257-cfaa-498a-9d40-88a3c3c45e60,USD,Threshold_2_Level__c,"#N/A","#N/A",8aaef705-56a4-4886-b9a7-fd5cb2bbcb9c,Lower_Bound_Percent__c,"#N/A",Quote Line,"#N/A","#N/A"

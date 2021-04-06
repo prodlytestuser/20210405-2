@@ -2,7 +2,8 @@
 06604386-4c83-4f63-a866-4cb02d2f272b,USD,Auto Renewal Uplift of 3%,true,"#N/A",All,"#N/A",Before Calculate,"#N/A","#N/A","#N/A",Calculator
 0a742606-68e6-4eaa-be82-0793d267a998,USD,Set VirusScan Device Count (DEP),false,111 AND (222 OR 333 OR 444),Custom,"#N/A",On Initialization,2.0,"#N/A","#N/A",Calculator
 1dadc07e-6f02-4f0c-a097-7a0a218fd773,USD,Set True Discretionary Discount %,false,"#N/A",All,"#N/A",After Calculate,98.0,"#N/A","#N/A",Calculator
-673342a7-8920-49f1-ade6-e5adbcc061ee,USD,Hologic Price Rule,false,"#N/A",All,Edit,On Calculate,50.0,SBQQ__LookupData__c,"#N/A",Calculator
+650e06ca-0817-4673-b19c-892d6a294c21,USD,Test April,false,"#N/A",All,"#N/A",On Calculate,"#N/A","#N/A","#N/A",Configurator
+673342a7-8920-49f1-ade6-e5adbcc061ee,USD,Hologic Price Rule 2,false,"#N/A",All,Edit,On Calculate,50.0,SBQQ__LookupData__c,"#N/A",Calculator
 794f6088-46b5-4349-b447-9135e6a926c6,USD,Set Professional Services Role Rates,true,"#N/A",All,"#N/A",On Calculate,"#N/A",Professional_Services_Rate__c,"#N/A",Calculator
 79c8d68c-cdaa-450f-a32e-dd6d3d87bc8d,USD,Config - Set Device Count,false,"#N/A",All,Edit,"#N/A",99.0,"#N/A","#N/A",Configurator
 8aaef705-56a4-4886-b9a7-fd5cb2bbcb9c,USD,Lookup Approval Level 2 [Discount],true,"#N/A",All,"#N/A",On Initialization,51.0,Approval_Threshold__c,"#N/A",Calculator
