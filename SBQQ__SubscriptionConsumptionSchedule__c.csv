@@ -1,0 +1,58 @@
+"Guid","CurrencyIsoCode","Name","SBQQ__BillingTermUnit__c","SBQQ__BillingTerm__c","SBQQ__Category__c","SBQQ__Description__c","SBQQ__MatchingAttribute__c","SBQQ__RatingMethod__c","SBQQ__Subscription__c","SBQQ__Type__c","SBQQ__UnitOfMeasure__c"
+020b9080-847b-4557-94f3-fb2de0d4e300,USD,UDCI Ingested GB Usage,Month,1.0,Rates,"#N/A",UDCI-GB-2019,Tier,773146b6-3c01-4949-83ef-f17ca791af7d,Range,GB
+0440b195-ca68-4f8c-a862-51c819cd7699,USD,UDCI Ingested GB Usage,Month,1.0,Rates,"#N/A",UDCI-GB-2019,Tier,aacde1f2-82e2-45c2-a351-72f977e11539,Range,GB
+05882eda-a667-457d-b218-c1963ef7f41b,USD,UDCI Ingested MB Usage (Slab Pricing),Month,1.0,Rates,"#N/A",UDCI-MB-2019,Tier,f4d9cd57-6101-4a16-9b84-3d888985dd40,Slab,MB
+0900988d-ae29-432a-a74a-2ba538d75344,USD,UDCI Ingested GB Usage,Month,1.0,Rates,"#N/A",UDCI-GB-2019,Tier,e1742793-9d5c-4df1-8ada-63cecafe79c8,Range,GB
+116105f2-54eb-47cf-841c-d2ddc765a135,USD,UDCI Ingested GB Usage,Month,1.0,Rates,"#N/A",UDCI-GB-2019,Tier,64b41338-0a7f-45c3-8e20-22997a541620,Range,GB
+137ab2d5-7b4f-4760-a28f-67510241779d,USD,UDCI Ingested GB Usage,Month,1.0,Rates,"#N/A",UDCI-GB-2019,Tier,13c2ddde-7332-4422-9151-eae6a0e8adf8,Range,GB
+157c434e-85f7-44ca-896f-98bc96c9dbc7,USD,UDCI Ingested GB Usage,Month,1.0,Rates,"#N/A",UDCI-GB-2019,Tier,afb65c14-963d-4767-a55d-32a8c5e7d287,Range,GB
+1640b817-b87a-4fc4-9b0f-b3d6fe01391a,USD,UDCI Ingested GB Usage,Month,1.0,Rates,"#N/A",UDCI-GB-2019,Tier,a745a14b-819e-49ef-b69d-40a4fb0dd5f0,Range,GB
+18024a64-9e1c-4914-b96c-97889ec52777,USD,UDCI Ingested MB Usage (Slab Pricing),Month,1.0,Rates,"#N/A",UDCI-MB-2019,Tier,c1c4b504-7569-4662-87d1-fbbd9c2687be,Slab,MB
+194d5f78-7873-491e-a02e-9caee5cec6c9,USD,UDCI Ingested TB Usage (Flat Fee over 2 TB),Month,1.0,Rates,"#N/A",UDCI-TB-2019,Tier,c1c4b504-7569-4662-87d1-fbbd9c2687be,Slab,TB
+1bb4c64c-0a59-41c1-b5f1-52dccc2b538c,USD,UDCI Ingested GB Usage,Month,1.0,Rates,"#N/A",UDCI-GB-2019,Tier,3b5699f3-abfd-4d8a-82ba-23d988edb304,Range,GB
+210ed85b-1515-44c1-ab63-2d148d6cd307,USD,UDCI Ingested GB Usage,Month,1.0,Rates,"#N/A",UDCI-GB-2019,Tier,66b92def-f524-42b0-846e-3b7eede9d4e0,Range,GB
+24678222-3281-40ec-a8a7-032938540987,USD,UDCI Ingested GB Usage,Month,1.0,Rates,"#N/A",UDCI-GB-2019,Tier,6ab63db2-a919-4beb-89e7-7b0658a0bb7d,Range,GB
+2d4a9c80-779a-4f05-b3b1-ce5c36db219e,USD,UDCI Ingested GB Usage,Month,1.0,Rates,"#N/A",UDCI-GB-2019,Tier,9a2543f6-7036-4b96-b8a9-18ac7ccee36a,Range,GB
+3b8d996e-76de-4bab-a9a2-37f0964ba112,USD,UDCI Ingested GB Usage,Month,1.0,Rates,"#N/A",UDCI-GB-2019,Tier,ebf8d37a-8eda-4e66-8142-91ab3f147fc4,Range,GB
+3eb64d6e-20e9-40e8-b097-e67b43af6f6b,USD,UDCI Ingested GB Usage,Month,1.0,Rates,"#N/A",UDCI-GB-2019,Tier,f4d9cd57-6101-4a16-9b84-3d888985dd40,Range,GB
+400dbcee-43e0-4084-9505-fdbd78a24392,USD,UDCI Ingested GB Usage,Month,1.0,Rates,"#N/A",UDCI-GB-2019,Tier,9dc2be1e-63ed-4074-9a23-64500138c0a3,Range,GB
+41110133-7c01-4081-b766-8ebcbfe87da7,USD,UDCI Ingested GB Usage,Month,1.0,Rates,"#N/A",UDCI-GB-2019,Tier,04eb3ea0-b5b5-4e5c-b6bc-48f2adb6b284,Range,GB
+441f913a-3a2e-4a14-9861-c3f3360606e4,USD,UDCI Ingested GB Usage,Month,1.0,Rates,"#N/A",UDCI-GB-2019,Tier,4815f342-9790-49f2-885c-a3fa0d68d957,Range,GB
+4cf4b61b-2c29-4640-bbab-68d04969367a,USD,UDCI Ingested TB Usage (Flat Fee over 2 TB),Month,1.0,Rates,"#N/A",UDCI-TB-2019,Tier,dd46d8ed-5f77-427b-a397-b75c87c6f521,Slab,TB
+5038d697-88ac-46dd-9d29-f367f9503c95,USD,UDCI Ingested GB Usage,Month,1.0,Rates,"#N/A",UDCI-GB-2019,Tier,6cccb2cb-c0f4-4930-8776-5694c08d0a31,Range,GB
+51db190f-dd76-4107-ab05-5a91fd63e6db,USD,UDCI Ingested GB Usage,Month,1.0,Rates,"#N/A",UDCI-GB-2019,Tier,52e877e0-e587-41b5-b36b-de1408383ac2,Range,GB
+52181fed-97a1-4e15-8605-821a7fb1190c,USD,UDCI Ingested GB Usage,Month,1.0,Rates,"#N/A",UDCI-GB-2019,Tier,74baef30-469e-45c0-bf51-bf336f8ebbb3,Range,GB
+5527d970-bd36-4f70-b754-f4ab72b4327a,USD,UDCI Ingested GB Usage,Month,1.0,Rates,"#N/A",UDCI-GB-2019,Tier,1b96bca7-5ca3-4b12-9c0e-82bfb6580ae6,Range,GB
+57eb150b-8c2e-4b58-be71-58ff8fcac6d0,USD,UDCI Ingested GB Usage,Month,1.0,Rates,"#N/A",UDCI-GB-2019,Tier,d809e5ec-2877-42ef-86db-2373327cccba,Range,GB
+5971e2bf-6232-44b1-821f-b07028b40709,USD,UDCI Ingested GB Usage,Month,1.0,Rates,"#N/A",UDCI-GB-2019,Tier,dd0e635d-c826-4311-a58b-6078487c3253,Range,GB
+5d0714ed-4204-41e6-94ac-a0be482399f0,USD,UDCI Ingested GB Usage,Month,1.0,Rates,"#N/A",UDCI-GB-2019,Tier,e54b9100-7f64-466d-be09-d040320c724f,Range,GB
+5d8158b5-db77-4ea7-8c04-5630dcb2289b,USD,UDCI Ingested GB Usage,Month,1.0,Rates,"#N/A",UDCI-GB-2019,Tier,c331216d-a736-4349-b790-540976b8e9ef,Range,GB
+6dfb17f9-0aa3-4392-8bfc-1073e6779c7a,USD,UDCI Ingested GB Usage,Month,1.0,Rates,"#N/A",UDCI-GB-2019,Tier,82aeec83-239e-40ce-902a-baf1c006ecae,Range,GB
+6f00a3a3-6f3a-411a-b90e-14387859586f,USD,UDCI Ingested GB Usage,Month,1.0,Rates,"#N/A",UDCI-GB-2019,Tier,6c3d8d8b-cd54-416c-b5b4-bbf41d4db32f,Range,GB
+7088a5d9-e6c9-49d4-9143-f7a0cf373955,USD,UDCI Ingested GB Usage,Month,1.0,Rates,"#N/A",UDCI-GB-2019,Tier,29176314-93b7-4fa3-9ea7-860b795b30f0,Range,GB
+7a94a8c5-de39-4718-8bbc-1f1e1ef83a55,USD,UDCI Ingested GB Usage,Month,1.0,Rates,"#N/A",UDCI-GB-2019,Tier,c1c4b504-7569-4662-87d1-fbbd9c2687be,Range,GB
+7bb66e8a-30c2-41cb-92e4-558b9669c4b8,USD,UDCI Ingested GB Usage,Month,1.0,Rates,"#N/A",UDCI-GB-2019,Tier,86f5a83f-9cae-4c02-bbe4-3cac5790821a,Range,GB
+8687de65-590a-4b83-bc5e-76b3799084f2,USD,UDCI Ingested GB Usage,Month,1.0,Rates,"#N/A",UDCI-GB-2019,Tier,d2285214-bd6d-44ad-a450-f471a7aa0566,Range,GB
+98570f1a-192a-445a-902a-98abb2cadd28,USD,UDCI Ingested GB Usage,Month,1.0,Rates,"#N/A",UDCI-GB-2019,Tier,98ce771b-508e-4578-879e-b55bcb0eddec,Range,GB
+9cc168db-2dca-4356-829c-51054be62a4e,USD,UDCI Ingested GB Usage,Month,1.0,Rates,"#N/A",UDCI-GB-2019,Tier,cc263e8f-ebd2-4654-91e9-416ff6b1c758,Range,GB
+9db9f54a-0917-4d97-82c1-78cbd0c46725,USD,UDCI Ingested GB Usage,Month,1.0,Rates,"#N/A",UDCI-GB-2019,Tier,c70eeb0c-f42e-4508-b7fd-a482bc79d685,Range,GB
+a2685098-09a6-4271-9c52-11d29d73ed2f,USD,UDCI Ingested GB Usage,Month,1.0,Rates,"#N/A",UDCI-GB-2019,Tier,d71604fc-6652-4ae5-bf72-f3085d9b563f,Range,GB
+a3d7d770-76c9-4abf-9f32-0192018c1667,USD,UDCI Ingested GB Usage,Month,1.0,Rates,"#N/A",UDCI-GB-2019,Tier,f28a30c2-a6a1-446c-bc14-0d20d1c5ed11,Range,GB
+a4d5ed06-91c4-4001-b6f7-17a9aa7fecd8,USD,UDCI Ingested GB Usage,Month,1.0,Rates,"#N/A",UDCI-GB-2019,Tier,566a44d1-a860-4a3f-986a-cf3e79745d5d,Range,GB
+ad8a7c2c-832d-4cc9-b4b7-28a89405e429,USD,UDCI Ingested GB Usage,Month,1.0,Rates,"#N/A",UDCI-GB-2019,Tier,d2f81ef4-c075-49f4-b9a4-d67896ee81c3,Range,GB
+b1fda715-d375-4645-9a81-94135ba38cb2,USD,UDCI Ingested GB Usage,Month,1.0,Rates,"#N/A",UDCI-GB-2019,Tier,3c83772b-13c2-400e-85d3-06da9be5c11d,Range,GB
+bf470682-d94a-4c2a-95d8-bddb56814de2,USD,UDCI Ingested GB Usage,Month,1.0,Rates,"#N/A",UDCI-GB-2019,Tier,b1500f79-685d-4d5f-b399-40ffc7a48869,Range,GB
+c1122dbb-dec2-4ab5-9e08-0f4d71570451,USD,UDCI Ingested GB Usage,Month,1.0,Rates,"#N/A",UDCI-GB-2019,Tier,7c355541-da79-49ee-8d73-3645a967464d,Range,GB
+c4e02d8a-44b0-462b-b17e-d9b77740d41e,USD,UDCI Ingested GB Usage,Month,1.0,Rates,"#N/A",UDCI-GB-2019,Tier,aabec1c9-d0da-49a0-9304-d4e35272baba,Range,GB
+c862c6e0-f5d1-4ab5-9a02-0d6e32040cdf,USD,UDCI Ingested GB Usage,Month,1.0,Rates,"#N/A",UDCI-GB-2019,Tier,440d2382-d712-442b-9cac-ccc53191edb8,Range,GB
+d042ee96-ff66-4204-a8d6-ea96ba294a8e,USD,UDCI Ingested GB Usage,Month,1.0,Rates,"#N/A",UDCI-GB-2019,Tier,16f02aab-5a03-4ce7-95f2-a597e1cc2e67,Range,GB
+d65137e6-2881-49d6-ac0a-3002d36e2271,USD,UDCI Ingested GB Usage,Month,1.0,Rates,"#N/A",UDCI-GB-2019,Tier,a0e3ff3f-e920-4b25-8c62-a7b6cdb80642,Range,GB
+d8aff9c0-5387-4109-a70f-c9f59f46de1e,USD,UDCI Ingested GB Usage,Month,1.0,Rates,"#N/A",UDCI-GB-2019,Tier,3d6ada73-769b-4492-a7c0-6186b0ea1d01,Range,GB
+da4aa424-90c9-4a1c-91b2-38fb03dd9bf0,USD,UDCI Ingested GB Usage,Month,1.0,Rates,"#N/A",UDCI-GB-2019,Tier,a3387c1d-e8fe-455b-9c26-f2ee9b9bc670,Range,GB
+e33a7ccc-d0f9-4636-b389-7f0fb2f37f3b,USD,UDCI Ingested GB Usage,Month,1.0,Rates,"#N/A",UDCI-GB-2019,Tier,dd46d8ed-5f77-427b-a397-b75c87c6f521,Range,GB
+e6af062c-d889-447d-a031-f66f1f86d255,USD,UDCI Ingested GB Usage,Month,1.0,Rates,"#N/A",UDCI-GB-2019,Tier,54a893aa-d3a9-48cf-9b56-092573fa8992,Range,GB
+e90ac307-061e-4877-b678-f1c9009a7be6,USD,UDCI Ingested GB Usage,Month,1.0,Rates,"#N/A",UDCI-GB-2019,Tier,a851b4d4-83d1-4ca1-be27-5ce51db9b41a,Range,GB
+f1f519f7-37e8-4416-a78a-4e85dce1d9b5,USD,UDCI Ingested GB Usage,Month,1.0,Rates,"#N/A",UDCI-GB-2019,Tier,9a91685f-8a45-45c8-9e22-b1b24e95c7b4,Range,GB
+f5282faa-fcef-4dc1-a0eb-a404037537d4,USD,UDCI Ingested TB Usage (Flat Fee over 2 TB),Month,1.0,Rates,"#N/A",UDCI-TB-2019,Tier,f4d9cd57-6101-4a16-9b84-3d888985dd40,Slab,TB
+fa696ef0-84b0-4097-9548-d425db11b970,USD,UDCI Ingested MB Usage (Slab Pricing),Month,1.0,Rates,"#N/A",UDCI-MB-2019,Tier,dd46d8ed-5f77-427b-a397-b75c87c6f521,Slab,MB
+fd64c5f1-875e-4fe7-80b2-4b7b4eb7e6c8,USD,UDCI Ingested GB Usage,Month,1.0,Rates,"#N/A",UDCI-GB-2019,Tier,85c6669b-b5e7-4150-abc6-7e68a2ff635d,Range,GB

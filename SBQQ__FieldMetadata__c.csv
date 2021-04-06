@@ -1,0 +1,15 @@
+"Guid","CurrencyIsoCode","Name","SBQQ__FieldName__c","SBQQ__ObjectName__c"
+16a92f91-4127-40ce-9aa0-ff2b652f4e25,USD,00N3h00000FAiKH,SBQQ__SalesRep__c,SBQQ__Quote__c
+1cc78fa0-ddac-485e-b4bc-1e3d59dea821,USD,00N3h00000FAiJj,SBQQ__BillingPostalCode__c,SBQQ__Quote__c
+23329e27-f77c-4532-8f0a-442de04463fe,USD,00N3h00000FAiJf,SBQQ__BillingCity__c,SBQQ__Quote__c
+253fbced-635d-4e54-8d4b-533d4f199a0d,USD,00N3h00000FAiKL,SBQQ__ShippingPostalCode__c,SBQQ__Quote__c
+47bd85ed-9b3b-4b62-b342-13c18576cfa2,USD,00N3h00000FAiKI,SBQQ__ShippingCity__c,SBQQ__Quote__c
+53085453-8d9e-4c79-a226-acea45dd418c,USD,00N3h00000FAiKK,SBQQ__ShippingName__c,SBQQ__Quote__c
+699c5c8d-dd5d-4578-aca8-9a52ab68af44,USD,00N3h00000FAiKN,SBQQ__ShippingStreet__c,SBQQ__Quote__c
+7ea0797b-3722-4165-b62d-ce346f43f694,USD,00N3h00000FAiKM,SBQQ__ShippingState__c,SBQQ__Quote__c
+7fd30d53-75e7-4cb2-b248-bb054add7f0a,USD,00N3h00000FAiJk,SBQQ__BillingState__c,SBQQ__Quote__c
+898ff064-0d5e-4196-8591-e2737a3d21f7,USD,00N3h00000FAiJg,SBQQ__BillingCountry__c,SBQQ__Quote__c
+aa3cd2dc-1248-47ab-a029-dcad77ac5582,USD,00N3h00000FAiJb,SBQQ__Account__c,SBQQ__Quote__c
+b2156c85-48d1-4143-865f-71c073a391e4,USD,00N3h00000FAiJl,SBQQ__BillingStreet__c,SBQQ__Quote__c
+b3bc135c-fc78-4d63-9189-bcea56b94a39,USD,00N3h00000FAiJi,SBQQ__BillingName__c,SBQQ__Order__c
+e38a9ef6-bade-4c7a-a303-1f47f207c8f9,USD,00N3h00000FAiKJ,SBQQ__ShippingCountry__c,SBQQ__Quote__c
